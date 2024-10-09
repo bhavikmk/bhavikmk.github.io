@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hydrogen Energy & Engineering
+title: Energy Engineering 101
 categories: [energy]
 excerpt: 
 ---
