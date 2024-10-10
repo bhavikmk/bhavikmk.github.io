@@ -2,7 +2,7 @@
 layout: post
 title: Hydrogen Energy & Engineering
 categories: [energy]
-excerpt: 
+excerpt: List of articles/videos for learning anything about hydrogen
 ---
 
 
@@ -22,3 +22,7 @@ excerpt:
 - 303
 - 304
 - 305
+
+### Latest trends & Policies
+- 401
+- 402

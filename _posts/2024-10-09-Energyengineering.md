@@ -2,7 +2,7 @@
 layout: post
 title: Energy Engineering 101
 categories: [energy]
-excerpt: 
+excerpt: List of resources for learning energy engineering
 ---
 
 
