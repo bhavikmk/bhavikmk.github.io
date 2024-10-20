@@ -1,7 +1,7 @@
 ---
 layout: page
 title: New? Start Here
-permalink: /start-here/
+permalink: /getting-started/
 ---
 
 The easiest way to find something that you’ll be interested in is to look at the [archives](https://bhavikmk.github.io/archive/) and browse the titles, which (I hope) are descriptive. 
