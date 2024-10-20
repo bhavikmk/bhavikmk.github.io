@@ -6,10 +6,10 @@
 name: Bhavik Kasundra
 
 # Name of the author
-author: 
+author: Bhavik Kasundra
 
 # Short bio or description (displayed in the header)
-description: Practicing Engineering
+description: 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/Image.jpg
@@ -24,9 +24,9 @@ footer-links:
   email: 
   facebook:
   flickr:
-  github: https://www.github.com/bhavikmk/
+  github: bhavikmk
   instagram:
-  linkedin: https://www.linkedin.com/in/bhavikkasundra
+  linkedin: bhavikkasundra
   pinterest:
   rss: 
   twitter: 
@@ -41,7 +41,8 @@ footer-links:
 disqus: 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: 
+google_analytics: GT-KVFLFSQ6
+
 
 # For newer "GA4" analytics, use the following instead of the "UA" entry above
 #google_analytics_ga4: G-GABC1DEFG
@@ -89,7 +90,7 @@ plugins:
 
 include: ['_pages']
 
-paginate: 10
+paginate: 20
 paginate_path: /page:num/
 
 # Exclude these files from your production _site
