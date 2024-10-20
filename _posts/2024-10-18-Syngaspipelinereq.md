@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Syngas Pipiline Requirements
+title: Syngas Pipeline Requirements
 categories: [energy]
 excerpt: Comprehensive insights related to Syngas pipeline transport
 ---
 
 
-Syngas Pipeline Requirements
+## Syngas Pipeline Requirements
 
 🟦 1) Syngas Composition
 
@@ -99,4 +99,4 @@ To protect soft seats from damage, install a 300-micron strainer upstream of val
 
 ## References
 
-[EIGA 120](https://www.eiga.eu/uploads/documents/DOC120.pdf)
+- [EIGA 120](https://www.eiga.eu/uploads/documents/DOC120.pdf)

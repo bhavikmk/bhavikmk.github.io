@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Energy Landscape 2023
+title: World Energy Landscape 2023
 categories: [energy]
 excerpt: Comprehensive analysis & Insights of Energy in 2023
 ---
