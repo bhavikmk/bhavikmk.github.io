@@ -47,7 +47,7 @@ Once a commercially viable hydrocarbon reservoir is discovered, the production p
 *   **Unconventional Production:**
     *   **Hydraulic Fracturing (Fracking):** Used to extract oil and natural gas from low-permeability formations like shale. It involves injecting a high-pressure mixture of water, sand, and chemicals into the wellbore to create fractures in the rock, allowing hydrocarbons to flow more freely.
     *   **Horizontal Drilling:** Drilling horizontally through the reservoir to increase the contact area between the wellbore and the hydrocarbon-bearing rock, maximizing production.
-
+<!-- 
 **Key Technical Aspects:**
 
 *   **Reservoir Engineering:** Involves studying the properties of hydrocarbon reservoirs to optimize production and maximize recovery.
@@ -55,7 +55,7 @@ Once a commercially viable hydrocarbon reservoir is discovered, the production p
 *   **Production Engineering:** Deals with the design, operation, and maintenance of production facilities.
 *   **Health, Safety, and Environment (HSE):** A critical aspect of upstream operations, with strict regulations and procedures to minimize environmental impact and ensure worker safety.
 
-The upstream sector is characterized by significant capital investment, technological complexity, and inherent risks. However, it is the foundation of the entire petrochemical value chain, providing the essential raw materials for the production of countless products that we rely on every day.
+The upstream sector is characterized by significant capital investment, technological complexity, and inherent risks. However, it is the foundation of the entire petrochemical value chain, providing the essential raw materials for the production of countless products that we rely on every day. -->
 
 ## **2. Midstream: The Movers (Transportation and Storage)**
 
@@ -103,7 +103,7 @@ Storage facilities are essential for maintaining a stable supply of oil and gas 
     *   **Strategic Reserves:** Held by governments for emergency situations and to ensure energy security.
     *   **Commercial Storage:** Held by companies for operational needs and to take advantage of price fluctuations.
 
-**Key Technical Aspects of Storage:**
+**Key Aspects of Storage:**
 
 *   **Tank Design and Construction:** Must meet strict safety and environmental regulations.
 *   **Leak Detection and Prevention Systems:** Essential for preventing leaks and environmental contamination.
@@ -178,7 +178,7 @@ Basic petrochemicals are further processed into a wide range of intermediate pro
     *   **Solvents:** Used in paints, coatings, and cleaning products.
     *   **Detergents:** Surfactants and other chemicals used in cleaning products.
 
-**Technical Aspects:**
+<!-- **Technical Aspects:**
 
 *   **Catalysis:** Catalysts play a crucial role in many refining and petrochemical processes, increasing reaction rates and improving product yields.
 *   **Process Control:** Advanced control systems are used to optimize process conditions and ensure efficient operation.
@@ -186,7 +186,7 @@ Basic petrochemicals are further processed into a wide range of intermediate pro
 *   **Environmental Regulations:** Strict environmental regulations govern emissions and waste disposal.
 
 The downstream sector is highly complex and technologically advanced, transforming raw materials into the essential building blocks for countless products that are integral to modern life.
-
+ -->
 
 
 ### **Further Downstream: The Final Products (End-Product Manufacturing)**
