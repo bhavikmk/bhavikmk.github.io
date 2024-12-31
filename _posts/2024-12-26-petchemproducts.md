@@ -2,7 +2,7 @@
 layout: post
 title: List of Petrochemicals (for Non-chemical engineer)
 categories: [energy, industry, analysis]
-excerpt: Decoding the Petrochemical Products & Supply Chain; From Crude Oil to Everyday Products
+excerpt: Decoding the Petrochemical Products 
 ---
 
 Petrochemicals and raw materials, Process, final products & it's applications (Using AI). 
@@ -276,3 +276,63 @@ Petrochemicals and raw materials, Process, final products & it's applications (U
 *   **Financial Estimates:**
     *   **Market Value:** IPA market has seen increased demand due to its use in hand sanitizers.
     *   **Production Cost:** Dependent on propylene prices and hydration process efficiency.
+
+**21. Aniline (C6H5NH2)**
+
+*   **Raw Materials:** Benzene, nitric acid
+*   **Process:** Nitration of benzene to nitrobenzene, followed by reduction to aniline
+*   **Final Products:**
+    *   Methylene diphenyl diisocyanate (MDI): Used to produce polyurethane foams
+    *   Dyes and pigments: Used in textiles, paints, and inks
+*   **Applications:** Polyurethane production, textile dyeing, rubber processing
+*   **Financial Estimates:**
+    *   **Market Value:** Aniline market is linked to the demand for polyurethanes and dyes.
+    *   **Production Cost:** Dependent on benzene and nitric acid prices, as well as production technology.
+
+**22. Ethylene Glycol (C2H6O2)**
+
+*   **Raw Materials:** Ethylene oxide
+*   **Process:** Hydration of ethylene oxide
+*   **Final Products:**
+    *   Polyester fibers: Used in textiles and clothing
+    *   Polyethylene terephthalate (PET): Used in bottles and packaging
+    *   Antifreeze: Used in automotive cooling systems
+*   **Applications:** Textiles, packaging, automotive
+*   **Financial Estimates:**
+    *   **Market Value:** Ethylene glycol market is substantial due to its diverse applications.
+    *   **Production Cost:** Influenced by ethylene oxide prices.
+
+**23. Phenol (C6H5OH)**
+
+*   **Raw Materials:** Cumene
+*   **Process:** Cumene hydroperoxide process
+*   **Final Products:**
+    *   Bisphenol A (BPA): Used to produce polycarbonate plastics and epoxy resins
+    *   Phenolic resins: Used in plywood, laminates, and molding compounds
+*   **Applications:** Plastics, resins, adhesives
+*   **Financial Estimates:**
+    *   **Market Value:** Phenol market is tied to the demand for BPA and phenolic resins.
+    *   **Production Cost:** Dependent on cumene prices and process efficiency.
+
+**24. Vinyl Acetate Monomer (VAM) (C4H6O2)**
+
+*   **Raw Materials:** Acetic acid, ethylene
+*   **Process:** Reaction of acetic acid with ethylene in the presence of a catalyst
+*   **Final Products:**
+    *   Polyvinyl acetate (PVA): Used in adhesives, paints, and coatings
+    *   Polyvinyl alcohol (PVOH): Used in paper coatings, textiles, and adhesives
+*   **Applications:** Adhesives, paints, coatings, textiles
+*   **Financial Estimates:**
+    *   **Market Value:** VAM market is driven by the demand for PVA and PVOH.
+    *   **Production Cost:** Influenced by acetic acid and ethylene prices.
+
+**25. Methyl Methacrylate (MMA) (C5H8O2)**
+
+*   **Raw Materials:** Acetone, methanol, sulfuric acid
+*   **Process:** Several routes, including the acetone cyanohydrin (ACH) process
+*   **Final Products:**
+    *   Polymethyl methacrylate (PMMA): Used in acrylic glass, signs, and displays
+*   **Applications:** Signage, displays, automotive, construction
+*   **Financial Estimates:**
+    *   **Market Value:** MMA market is linked to the demand for acrylic plastics.
+    *   **Production Cost:** Dependent on raw material prices and production process.
