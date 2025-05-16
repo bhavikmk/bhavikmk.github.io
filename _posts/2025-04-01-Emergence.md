@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  Emergence: When Parts Don't Know the Whole
+title:  Emergence; When Parts Don't Know the Whole
 categories: [project]
 excerpt: This blog is part 1 of my personal pursuit project "Adaptive Systems"
 ---
+
+<iframe width="800" height="400" src="https://www.youtube.com/embed/UVko9jyAkQg?si=zK79SLIPV7_RqzKg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Emergence occurs when local interactions among components of a system give rise to global patterns not explicitly programmed into any part.
 
