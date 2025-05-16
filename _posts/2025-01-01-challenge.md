@@ -2,23 +2,21 @@
 layout: post
 title: Impossible List
 categories: [Challenges]
-excerpt: Impossible List is the relentless pursuit of excellence in multiple fields—intellectual, artistic, athletic, scientific, business, and beyond. It is about becoming someone who refuses to be confined to a single domain and instead thrives in the intersection of knowledge, skill, and creativity.
+excerpt: Impossible List is list of challenges to discover true inner self.
 ---
 
-# The I'm possible List
-
-Impossible List is the relentless pursuit of excellence in multiple fields—intellectual, artistic, athletic, scientific, business, and beyond. It is about becoming someone who refuses to be confined to a single domain and instead thrives in the intersection of knowledge, skill, and creativity.
+This is relentless pursuit of excellence in multiple fields—intellectual, artistic, athletic, scientific, business, and beyond. It is about becoming someone who refuses to be confined to a single domain and instead thrives in the intersection of knowledge, skill, and creativity.
 
 ## Renaissance Man
 
 - Navigate the ocean using only the stars
 - Read 100 of the greatest books of all time (philosophy, science, literature, history)
 - Learn at least five languages fluently
-- Master art forms 
-  - painting 
+- Master art forms
+  - painting
   - sculpture
-  - music 
-  - poetry 
+  - music
+  - poetry
   - architecture
 - Learn Archery
 - Write and publish a novel, screenplay, or collection of poetry
@@ -27,10 +25,10 @@ Impossible List is the relentless pursuit of excellence in multiple fields—int
 - Become proficient in at least five different sports
 - Learn to fly a plane and obtain a pilot's license
 
-
 ## Tough & Fit
 
 **Running**
+
 - 5 KM
 - 10 KM
 - 21 KM
@@ -38,17 +36,20 @@ Impossible List is the relentless pursuit of excellence in multiple fields—int
 - 89 KM
 
 **Pushups**
-- 50 in ROW
+
+- ~~50 in ROW~~
 - 75 in ROW
 - 100 in ROW
 
 **Pull Ups**
+
 - ~~15 in ROW~~
 - 20 in ROW
 - 30 in ROW
 - 50 in ROW
 
 **Swimming**
+
 - Hold Breath for 100 Sec
 - Hold Breath for 120 Sec
 - Hold Breath for 150 Sec
@@ -59,22 +60,26 @@ Impossible List is the relentless pursuit of excellence in multiple fields—int
 - Swim for 5 KM
 - Swim for 10 KM
 
-**Others**
+**Calisthenics**
+
+- ~~10 L-sit Pullups~~
+- 20 L-sit Pullups
+- 10 Muscle ups
+- 20 Muscle ups
 - Do a handstand
-- Learn one hand support handstand
+- Learn one hand handstand
 
-
-## Travel 
+## Travel
 
 - ~~Do Solo Trip~~ (2 done)
 - Visit 28 States of INDIA (3 Done)
-- Visit a Country without heavy costs(20 in Lifetime)
+- Visit a Country without heavy expensess(20 in Lifetime)
 - Do a Trip Without Money (Only Survival Needs)
 - Visit Every Continent
-- Go Skydiving 
-- Go Bungee Jumping 
-- Go Paragliding 
-- Go Parasailing 
+- Go Skydiving
+- Go Bungee Jumping
+- Go Paragliding
+- Go Parasailing
 - Learn to Surf
 - ~~Travel by Cycling in whole city~~ (June, 2022)
 - Travel Across Gujarat by Bike
@@ -82,8 +87,8 @@ Impossible List is the relentless pursuit of excellence in multiple fields—int
 - Mumbai to Goa in Train
 - ~~Hiking in MH Hillstations (MHB, MTRN, GG)~~ (Aug, 2024)
 
-
 ## Home & Familys
+
 - Own a Home with Backyard
 - Build Garden with Ayurvedic & Essential Plants, Flowers
 - Put Swing at Home
@@ -91,12 +96,13 @@ Impossible List is the relentless pursuit of excellence in multiple fields—int
 - Hydroponics Setup
 - Solar + Battery -> Offgrid kind of setup
 - Build a Workshop with Necessary tools to experiment & Fix things
-- Build Small Pool 
+- Build Small Pool
 
 ## Professional
+
 - ~~Publish a Personal Website~~
 - Write ~~5 10~~ 15 25 blog posts
-- Develop Expertise in Non Job Field 
+- Develop Expertise in Non Job Field
 - Go without internet for a month
 - Start and scale a successful business from scratch
 - Generate $1M+ in revenue from a personal venture

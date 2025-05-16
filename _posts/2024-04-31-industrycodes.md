@@ -43,6 +43,7 @@ Provides standards for the construction of pressure vessels made from fiber-rein
 Specifies guidelines for the ongoing inspection of nuclear power plant components to ensure safety and structural integrity.
 
 ## Piping Standards
+
 1. ASME B31.1: Power Piping
 Governs the design, materials, fabrication, and testing of piping systems for power plants, including steam, feedwater, and blowdown systems.
 
@@ -73,6 +74,7 @@ Provides design and construction standards for welded aluminum storage tanks use
 Governs the design and construction of steel tanks used for the storage of oil and petroleum products.
 
 ## Flanges, Fittings, and Valves Standards
+
 1. ASME B16.1: Cast Iron Pipe Flanges and Flanged Fittings
 Specifies standards for cast iron pipe flanges and flanged fittings, including dimensions and pressure ratings.
 
@@ -92,6 +94,7 @@ Defines dimensions and pressure ratings for forged socket-welded and threaded fi
 Provides standards for the design, materials, dimensions, and pressure ratings of flanged, threaded, and welded valves.
 
 ## Welding and Brazing Standards
+
 1. ASME Section IX: Welding, Brazing, and Fusing Qualifications
 Covers the qualification of welding and brazing procedures, as well as the qualifications of welders, brazers, and welding operators.
 Material Standards
@@ -109,13 +112,15 @@ Provides material specifications for stainless steel used in pressure vessels an
 Governs materials and specifications for alloy-steel components used in high-temperature applications.
 
 ## Mechanical and Structural Standards
+
 1. ASME Y14.5: Dimensioning and Tolerancing
 Provides standards for geometric dimensioning and tolerancing (GD&T) for technical drawings to ensure the accuracy of designs.
 
 ## Nuclear Standards
+
 ASME NQA-1: Quality Assurance Requirements for Nuclear Facility Applications
 Establishes quality assurance standards for the safe design and construction of nuclear facilities.
 
 ---
-[ASME](https://drive.google.com/drive/folders/1cgotc54kBzmZy10aNXkUlfTx6gqM59j-?usp=drive_link) / 
+[ASME](https://drive.google.com/drive/folders/1cgotc54kBzmZy10aNXkUlfTx6gqM59j-?usp=drive_link) /
 [API](https://drive.google.com/drive/folders/1cBJIPWP4aJCIX6ILEkIwE752LZPr4_OC?usp=drive_link)

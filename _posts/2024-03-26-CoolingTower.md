@@ -5,12 +5,10 @@ categories: [Engineering]
 excerpt: Engineering Notes for Cooling Tower
 ---
 
-# Cooling Tower
-
 - Cooling water is used to condense the steam in condenser. temperature of Cooling water rises and it needs to be cool down again in order to use it (closed loop).
 - Reduce temperature of water by extracting heat from water and emitting it to atmosphere. by means of evaporation of portion of water which carries extra heat of water thereby cooling it.
 
-Atmospheric air is having certain capacity to absorb the water vapors at a given temperature. Water vapors are created due to evaporation of water droplets. 
+Atmospheric air is having certain capacity to absorb the water vapors at a given temperature. Water vapors are created due to evaporation of water droplets.
 
 For evaporation of water, heat is required. This heat is obtained from the remaining water. So, the remaining water is cooled,
 as the heat is removed from it for evaporation. Rate of evaporation and hence, drop in cooling water temperature depends upon the following factors:
@@ -29,14 +27,14 @@ Finding Relative Humidity (how much water vapours the atmospheric air contains) 
 ### Types of Cooling Tower
 
 - Natural draft cooling tower
-    - Hyperbolic cooling tower (Cross & Counter flow)
-        - Large heat duties
-        - Hot air moves upwards, Fresh air from bottom (delta T)
+  - Hyperbolic cooling tower (Cross & Counter flow)
+    - Large heat duties
+    - Hot air moves upwards, Fresh air from bottom (delta T)
 - Mechanical Draft
-    - Induced draft cross flow cooling tower.
-    - Induced draft counterflow cooling tower.
+  - Induced draft cross flow cooling tower.
+  - Induced draft counterflow cooling tower.
 
-Hyperbolic cooling tower is a natural draft cooling tower. Air velocity is created due to chimney effect. 
+Hyperbolic cooling tower is a natural draft cooling tower. Air velocity is created due to chimney effect.
 
 ![Induced Draft Counter Flow Cooling Tower](https://prod-files-secure.s3.us-west-2.amazonaws.com/b393c69c-0e99-43df-af16-05a798b4e335/1329e39f-f443-4b8a-903a-5b92f273216d/Untitled.png)
 
@@ -82,11 +80,11 @@ original make-up water. The ratio of level of solids of the circulating cooling 
 ### Losses
 
 - Evaporation
-    - E = Circulation Rate x Delta_T x (Cp/Hv).
+  - E = Circulation Rate x Delta_T x (Cp/Hv).
 - Windage or drift loss
-    - W = 0.005% with drift eliminators
+  - W = 0.005% with drift eliminators
 - Blowdown
-    - B + W = E/COC1.
+  - B + W = E/COC1.
 
 ### Calculations
 
@@ -94,7 +92,7 @@ Amount of Cooling Water Required
 
 Enthalpy of steam at exhaust at Pressure: 0.08 kg/cm2A, Temp: 45 C = __
 
-Enthalpy of Condensate at 0.08 ATA, 41 C = 
+Enthalpy of Condensate at 0.08 ATA, 41 C =
 
 ### Treatment
 
@@ -105,6 +103,6 @@ Enthalpy of Condensate at 0.08 ATA, 41 C =
 ### Questions
 
 - Why Blowdown is required?
-    - Due to COC, concentration of solids in water becomes more than the original make-up water.
-    - minimize excessive concentration of these impurities,
+  - Due to COC, concentration of solids in water becomes more than the original make-up water.
+  - minimize excessive concentration of these impurities,
     some quantity of circulating water is removed from the system.

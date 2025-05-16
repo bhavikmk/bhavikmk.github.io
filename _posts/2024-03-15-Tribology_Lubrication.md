@@ -2,7 +2,7 @@
 layout: post
 title:  Tribology & Lubrication
 categories: [Engineering]
-excerpt: In depgh Engineering notes for Lubrication
+excerpt: Engineering notes for Lubrication
 ---
 
 Interfacing surfaces in relative motions, including friction, wear and erosion

@@ -9,27 +9,27 @@ excerpt: Understanding on 21's century politics, work, technology, religion, war
 
 - Our personal data in hands of tech giants creates inequality and opposite of liberty. Data tells everything about current state of person, beliefs he is holding and action he might take on given situation. All this started for targeted personal advertising, but on the way it have far more power to utilized. So, they know everything about a user and it can be utilized for politics.
 
-- Facebook's belief of connecting users to best communities have selfish reason and it does it for data only. While real communities with affection and sympathy can never be found on facebook. 
+- Facebook's belief of connecting users to best communities have selfish reason and it does it for data only. While real communities with affection and sympathy can never be found on facebook.
 
-- Regarding Work, AI is way more powerful and it is growing day by day. But AI's main power is prediction. It predicts on given input for ex(image, video, language), It should be leveraged for decision making. Because highest paid jobs on planet are of taking rational decisions in stressed situation. Summarizing is just one utility, but more potential can be unlocked by going one step further. Regarding replacing jobs, there is system level change required as pointed in book [[Power and Prediction]], if AI is point solution then it is not much utilized but as electricity is expanded as system solution, it generally takes time to adopt as system solution but It has more impact. 
+- Regarding Work, AI is way more powerful and it is growing day by day. But AI's main power is prediction. It predicts on given input for ex(image, video, language), It should be leveraged for decision making. Because highest paid jobs on planet are of taking rational decisions in stressed situation. Summarizing is just one utility, but more potential can be unlocked by going one step further. Regarding replacing jobs, there is system level change required as pointed in book [[Power and Prediction]], if AI is point solution then it is not much utilized but as electricity is expanded as system solution, it generally takes time to adopt as system solution but It has more impact.
 
-- Regarding Nationalism, If we think about problems of this era such as global warming, bio-wars, climate change, sustainability shift etc, This problems can not be solved by national benefits, As seen during covid times, Issues are tackled globally. These global warming and all these problems should taken on global level rather then national, but this depend on leaders of respective nations. Collaborating on these issues happening in research sectors but collaboration might be difficult. Union countries suppressing $CO_2$ emission for growing countries but since grownup countries have created very large impact on climate. 
+- Regarding Nationalism, If we think about problems of this era such as global warming, bio-wars, climate change, sustainability shift etc, This problems can not be solved by national benefits, As seen during covid times, Issues are tackled globally. These global warming and all these problems should taken on global level rather then national, but this depend on leaders of respective nations. Collaborating on these issues happening in research sectors but collaboration might be difficult. Union countries suppressing $CO_2$ emission for growing countries but since grownup countries have created very large impact on climate.
 
-- Religion (I'm secular btw). People are unified by common belief or story. If a story is believed by group of people over 1000 years, then it becomes religion. 
+- Religion (I'm secular btw). People are unified by common belief or story. If a story is believed by group of people over 1000 years, then it becomes religion.
 
 - People need to spot difference between truth and beliefs, and updating belief based on closeness to truth. That is ideology of secularism. It is driven by statistics and science based reasoning to believe in anything.  
 
-- Scientists don't believe in their religion is most impactful and mother of all religions but every religion people think their religion has given humanity everything. 
+- Scientists don't believe in their religion is most impactful and mother of all religions but every religion people think their religion has given humanity everything.
 
-- Terrorism has very less impact over death but it is most feared and marketed most. So, don't panic by seeing media channels arguing about terror attacks and series about it. 
+- Terrorism has very less impact over death but it is most feared and marketed most. So, don't panic by seeing media channels arguing about terror attacks and series about it.
 
-- War is this century have no return on investment because main source of capital is economics of capitalism. US have 19 trillion with 350 M people $ and EU have 21 trillion with 500 M People. Main source of capital lies in institutions and research groups. It can't be captured by war. 
+- War is this century have no return on investment because main source of capital is economics of capitalism. US have 19 trillion with 350 M people $ and EU have 21 trillion with 500 M People. Main source of capital lies in institutions and research groups. It can't be captured by war.
 
 - If we don't want to know truth, then it is easy to get ignored but if we need to know truth then it is harder to find. See for ex, If I need to know about Black mafia economics, it is hard to find truth. but knowledge on google seems lot lot more if we don't know truth
 
-- Make Science fiction closer to reality. Science Research paper has lot less reach then science fiction work. 
+- Make Science fiction closer to reality. Science Research paper has lot less reach then science fiction work.
 
-- Meditation is being aware about thoughts and emotions. Human mind is very chaotic in thoughts, it washes away if we try to focus on something. 
+- Meditation is being aware about thoughts and emotions. Human mind is very chaotic in thoughts, it washes away if we try to focus on something.
 
 ## Highlights
 

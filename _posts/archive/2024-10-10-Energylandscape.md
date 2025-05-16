@@ -15,24 +15,24 @@ excerpt: Comprehensive analysis & Insights of Energy in 2023
 | US | 94.28 | -1.2% |
 | Europe | 77.85 |-2.2% |
 
-Insights : 
+Insights :
 
-` Note: Energy in EJ (Exa joules = 10^18 Joules), GJ (Giga Joules = 10^9 Joules)`
-
+`Note: Energy in EJ (Exa joules = 10^18 Joules), GJ (Giga Joules = 10^9 Joules)`
 
 ### Worldwide Energy (Fuel wise consumption) (2023)
+
 - Oil : 196 EJ
 - Coal : 164 EJ
 - Natural Gas : 144 EJ
 - **Renewables : 51 EJ**
-- Hydroelectric : 40 EJ 
+- Hydroelectric : 40 EJ
 - Nuclear : 25 EJ
 
-Insights : 
+Insights :
 
-###  Energy Consumption (Fuel wise)
+### Energy Consumption (Fuel wise)
 
-|Region | Oil | NG | Coal | Nuclear | Hydro | Renewables | Total | 
+|Region | Oil | NG | Coal | Nuclear | Hydro | Renewables | Total |
 | --- | --- | -- | -- | -- | -- | -- | --|
 | World | 196.43 |144.37|164.03| 24.57|39.65 | 50.58 |619.63 |
 | **India** | 10.57| 2.25|21.98|0.43|1.39|2.38|39.02|
@@ -40,7 +40,7 @@ Insights :
 | US | 35.86 |31.91|8.20|7.32|2.21|8.78|94.28|
 | Europe | 28.33|16.68|8.39|6.60|5.97|11.86|77.85|
 
-Insights : 
+Insights :
 
 ### Energy Consumption (Giga Joule Per Capita)
 
@@ -52,7 +52,7 @@ Insights :
 | US | 277.3 | -1.7 |
 | Europe | 115.2 | -2.1 |
 
-Insights : 
+Insights :
 
 ### Carbon dioxide emissions from energy, process emissions, methane and flaring (Million tonnes of CO2)
 
@@ -64,7 +64,7 @@ Insights :
 | US | 5130 | -2.7 |
 | **Europe** | 3776 | **-5.3** |
 
-Insights : 
+Insights :
 
 ## KPIs of Energy, trade & analysis
 
